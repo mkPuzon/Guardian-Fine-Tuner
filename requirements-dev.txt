@@ -1,0 +1,6 @@
+# -------- To train in Jupyter notebooks -------- #
+ipywidgets
+ipykernel 
+
+transformers
+datsets

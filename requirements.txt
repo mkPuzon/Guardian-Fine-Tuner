@@ -1,0 +1,9 @@
+torch
+evaluate
+peft
+scikit-learn
+
+fastapi
+uvicorn[standard]
+pydantic
+slowapi
